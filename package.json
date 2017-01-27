@@ -1,0 +1,30 @@
+{
+  "name": "test-haml",
+  "version": "1.0.0",
+  "description": "Prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lab27/test-haml.git"
+  },
+  "keywords": [
+    "test-haml"
+  ],
+  "author": "Nick Niles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lab27/test-haml/issues"
+  },
+  "homepage": "https://github.com/lab27/test-haml#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-util": "^3.0.7"
+  }
+}
